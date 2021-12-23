@@ -1,0 +1,92 @@
+h2{
+    font-weight: lighter;
+    font-size: 4rem;
+}
+
+h3{
+    color: white;
+}
+p{
+    padding: 3rem 0rem;
+    color: #ccc;
+    font-size: 1.4rem;
+}
+h4{
+    font-weight: bold;
+}
+span{
+    font-weight: bold;
+    color: #23d997;
+}
+a{
+    font-size: 1.1rem;
+}
+
+h2{
+    padding-bottom: 5rem;
+}
+p{
+    width: 70%;
+    padding: 2rem 0rem 4rem 0rem;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h3{
+    margin-left: 1rem;
+    background: white;
+    color: black;
+}
+
+div{
+    min-height: 100vh;
+
+}
+
+div{
+    padding-bottom: 10rem;
+}
+
+head{
+    min-height: 90vh;
+    padding-top: 20vh;
+    position: relative;
+}
+h2{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -10%);
+}
+img{
+    width: 100%;
+    height: 70vh;
+    object-fit: cover;
+    object-position: top;
+}
+
+div{
+    position: fixed;
+    left: 0;
+    top: 10%;
+    width: 100%;
+    height: 100vh;
+    background: #fffebf;
+    z-index: 2;
+}
+
+div{
+display: flex;
+align-items: center;
+
+
+}
+h2{
+    margin: 2rem;
+}
+
+div{
+    margin-bottom: 4rem;
+    color: black;
+}
